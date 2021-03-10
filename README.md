@@ -1,2 +1,0 @@
-# sucredito
-Web
